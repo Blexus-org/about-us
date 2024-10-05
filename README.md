@@ -61,6 +61,6 @@ At **Blexus**, we believe in **community involvement**. Everyone can **[vote](ht
 Connect with our community and learn more about how we’re revolutionizing AI:
 
 - [Discord](https://discord.gg/WPt9T3JwJg)
-- [HuggingFace]([https://github.com/Blexus-org](https://huggingface.co/Blexus))
+- [HuggingFace](https://huggingface.co/Blexus)
 
 ---
